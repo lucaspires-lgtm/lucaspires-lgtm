@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lucaspires-lgtm
+- 👀 I’m interested in tecnology and science
+- 🌱 I’m currently learning React
+- ⚡ Fun fact: Jesus will soon return
